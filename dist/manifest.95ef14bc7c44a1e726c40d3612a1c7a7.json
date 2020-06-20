@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.8aa71154cd406308782f83020a31b11e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.b0c4ed824e5434d9f223d15af554870f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.a065494f693efad44937b0929b86c959.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.0d058a161c8b20dad944550b26909804.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.fbcb1f073fd9d7c4415302fd87fa8369.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.f0f8497e51540d520ebc39e8b1372d3a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Vanilla Todo",
+  "short_name": "Vanilla Todo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Simple Todo App PWA built with React",
+  "background_color": "#ffffff"
+}

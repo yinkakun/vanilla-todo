@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A Todo Progressive Web App built with Vanilla JavaScript"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+    <title>Vanilla Todo</title>
+  </head>
+  <body>
+    <noscript>This app requires javascript to run</noscript>
+    <div class="todo">
+      <form class="todo-form js-todo-form">
+        <label for="add-todo" class="visually-hidden">Add todo item</label>
+        <input
+          autofocus
+          class="todo-input js-todo-input"
+          type="text"
+          id="add-todo"
+          autocomplete="off"
+          placeholder="what do you need to do?"
+        />
+        <button class="todo-submit" type="submit">Add</button>
+      </form>
+
+      <p class="js-todo-details todo-details">
+        <!-- Content gennerated with javascript -->
+      </p>
+
+      <ul class="js-todo-list todo-list">
+        <!-- Content generated with javascript -->
+      </ul>
+    </div>
+  </body>
+</html>
