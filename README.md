@@ -1,18 +1,12 @@
-# Vailla-Todo
+# Vanilla-Todo
 
-A Simple Todo PWA built with React
+A Simple Todo PWA built with Vanilla JS and Redux
 
-[Live Demo](https://awesome-vanilla-todo.netlify.app)
+[Live Demo](https://vanillatodoyinkakun.netlify.app)
 
 ![screenshot](vanilla-todo-screenshot.png)
 
 ## Project setup
-
-### Clone repository
-
-```sh
-git clone https://github.com/awesomeyinka/vanilla-todo.git
-```
 
 ### Install dependencies
 
